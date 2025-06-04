@@ -1,5 +1,5 @@
 package com.example.reportes.model;
 
-public class EnviosModel {
+public class ReportesModel {
 
 }
