@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.example.reportes.dto.ReporteDTO;
-import com.example.reportes.models.Reporte;
+import com.example.reportes.model.Reporte;
 import com.example.reportes.repository.ReporteRepository;
 
 @Service

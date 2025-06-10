@@ -1,5 +1,0 @@
-package com.example.reportes.view;
-
-public class ReportesView {
-
-}
